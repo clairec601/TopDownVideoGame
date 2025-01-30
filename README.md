@@ -47,4 +47,4 @@ Claire Chang
 * https://www.youtube.com/watch?v=vY0Sk93YUhA -> inspiration for dialogue system
 * https://www.youtube.com/watch?v=UyTJLDGcT64 -> inspiraiton for quest system
 * Many posts on Unity Discussions/Stack Overflow/other Internet sources
-* My stuffed animals
+* My stuffed animals!
