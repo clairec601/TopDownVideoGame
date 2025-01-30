@@ -1,3 +1,6 @@
+PLEASE READ 'READ THIS BEFORE ANYTHING'
+
+
 # Stuffed Slumber
 
 One very normal night, you fall asleep in your bed, as you normally do. Then, you seemingly wake up, but not in the same exact bed you fell asleep in; in this game, you enter a grassy dreamland, where your stuffed animals have suddenly come to life! Interact with them and your surroundings, play games, and help resolve some of their concerns before you wake up again! 
