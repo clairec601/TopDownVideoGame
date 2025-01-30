@@ -7,17 +7,20 @@ Talk to and help out each stuffed animal before waking back up!
 * Trigger dialogue: 'space'
 * Continue dialogue: 'return'
 * Movement: arrow keys ('up', 'down', 'right', 'left')
+     * Jump (Bread Game): 'up'
 
 ## Screenshots/GIFs
 <img width="606" alt="Screenshot 2025-01-29 at 6 35 49 PM" src="https://github.com/user-attachments/assets/4c171ed6-0228-4ab5-add2-cb0158e19733" />
 
 ![Sunflower](https://github.com/user-attachments/assets/c1b7a77a-816c-479d-9cda-d724ffe7af72)
+![Lily Pad](https://github.com/user-attachments/assets/d6c292a4-af42-4db6-9291-84edd9686c38)
 ![MainCharGIF](https://github.com/user-attachments/assets/a6573265-c38d-4414-a067-c9635e634204)
 ![MainCharIdleGIF](https://github.com/user-attachments/assets/929e0b4d-0edc-4412-a68d-2200d5613411)
 ![Ramen GIF](https://github.com/user-attachments/assets/2226fee2-e330-4f4c-a36f-e91197bdeb68)
 ![OtterGIF](https://github.com/user-attachments/assets/15ea8b42-0527-4928-a2b6-450caaeead74)
-![Lily Pad](https://github.com/user-attachments/assets/d6c292a4-af42-4db6-9291-84edd9686c38)
 ![BreadGIF](https://github.com/user-attachments/assets/47022d27-4f26-4983-9bf7-5ff10846e474)
+
+[Screen Recording 2025-01-29 at 8.05.55 PM.mov.zip](https://github.com/user-attachments/files/18596062/Screen.Recording.2025-01-29.at.8.05.55.PM.mov.zip)
 
 
 
